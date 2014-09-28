@@ -1,0 +1,45 @@
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\DTO\bin\Debug\DTO.dll
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\DTO\bin\Debug\DTO.pdb
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\DTO\obj\Debug\ResolveAssemblyReference.cache
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\DTO\obj\Debug\DTO.dll
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\DTO\obj\Debug\DTO.pdb
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\DTO\bin\Debug\DTO.dll
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\DTO\bin\Debug\DTO.pdb
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\DTO\obj\Debug\ResolveAssemblyReference.cache
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\DTO\obj\Debug\DTO.dll
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\DTO\obj\Debug\DTO.pdb
+C:\Users\WIN7\Desktop\Dev so tiet kiem\DTO\bin\Debug\DTO.dll
+C:\Users\WIN7\Desktop\Dev so tiet kiem\DTO\bin\Debug\DTO.pdb
+C:\Users\WIN7\Desktop\Dev so tiet kiem\DTO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\Dev so tiet kiem\DTO\obj\Debug\DTO.dll
+C:\Users\WIN7\Desktop\Dev so tiet kiem\DTO\obj\Debug\DTO.pdb
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\DTO\bin\Debug\DTO.dll
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\DTO\bin\Debug\DTO.pdb
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\DTO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\DTO\obj\Debug\DTO.dll
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\DTO\obj\Debug\DTO.pdb
+D:\nmpm\DoAn\1142018\DTO\bin\Debug\DTO.dll
+D:\nmpm\DoAn\1142018\DTO\bin\Debug\DTO.pdb
+D:\nmpm\DoAn\1142018\DTO\obj\Debug\ResolveAssemblyReference.cache
+D:\nmpm\DoAn\1142018\DTO\obj\Debug\DTO.dll
+D:\nmpm\DoAn\1142018\DTO\obj\Debug\DTO.pdb
+C:\Users\WIN7\Desktop\1142018\DTO\bin\Debug\DTO.dll
+C:\Users\WIN7\Desktop\1142018\DTO\bin\Debug\DTO.pdb
+C:\Users\WIN7\Desktop\1142018\DTO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\1142018\DTO\obj\Debug\DTO.dll
+C:\Users\WIN7\Desktop\1142018\DTO\obj\Debug\DTO.pdb
+D:\nmpm\DoAn\moi\1142018_dy\DTO\bin\Debug\DTO.dll
+D:\nmpm\DoAn\moi\1142018_dy\DTO\bin\Debug\DTO.pdb
+D:\nmpm\DoAn\moi\1142018_dy\DTO\obj\Debug\ResolveAssemblyReference.cache
+D:\nmpm\DoAn\moi\1142018_dy\DTO\obj\Debug\DTO.dll
+D:\nmpm\DoAn\moi\1142018_dy\DTO\obj\Debug\DTO.pdb
+D:\BaiTap\new\DoAn_PhanMem\DTO\bin\Debug\DTO.dll
+D:\BaiTap\new\DoAn_PhanMem\DTO\bin\Debug\DTO.pdb
+D:\BaiTap\new\DoAn_PhanMem\DTO\obj\Debug\ResolveAssemblyReference.cache
+D:\BaiTap\new\DoAn_PhanMem\DTO\obj\Debug\DTO.dll
+D:\BaiTap\new\DoAn_PhanMem\DTO\obj\Debug\DTO.pdb
+D:\BaiTap\PM_3\DoAn_PhanMem\DTO\bin\Debug\DTO.dll
+D:\BaiTap\PM_3\DoAn_PhanMem\DTO\bin\Debug\DTO.pdb
+D:\BaiTap\PM_3\DoAn_PhanMem\DTO\obj\Debug\ResolveAssemblyReference.cache
+D:\BaiTap\PM_3\DoAn_PhanMem\DTO\obj\Debug\DTO.dll
+D:\BaiTap\PM_3\DoAn_PhanMem\DTO\obj\Debug\DTO.pdb

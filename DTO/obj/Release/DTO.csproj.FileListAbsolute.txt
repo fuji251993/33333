@@ -1,0 +1,19 @@
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\DTO\bin\Release\DTO.dll
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\DTO\bin\Release\DTO.pdb
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\DTO\obj\Release\ResolveAssemblyReference.cache
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\DTO\obj\Release\DTO.dll
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\DTO\obj\Release\DTO.pdb
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\DTO\bin\Release\DTO.dll
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\DTO\bin\Release\DTO.pdb
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\DTO\obj\Release\ResolveAssemblyReference.cache
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\DTO\obj\Release\DTO.dll
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\DTO\obj\Release\DTO.pdb
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\DTO\bin\Release\DTO.dll
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\DTO\bin\Release\DTO.pdb
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\DTO\obj\Release\DTO.dll
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\DTO\obj\Release\DTO.pdb
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\DTO\bin\Release\DTO.dll
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\DTO\bin\Release\DTO.pdb
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\DTO\obj\Release\DTO.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\DTO\obj\Release\DTO.dll
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\DTO\obj\Release\DTO.pdb

@@ -1,0 +1,28 @@
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\DAO\bin\Release\DAO.dll
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\DAO\bin\Release\DAO.pdb
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\DAO\bin\Release\DTO.dll
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\DAO\bin\Release\DTO.pdb
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\DAO\obj\Release\ResolveAssemblyReference.cache
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\DAO\obj\Release\DAO.dll
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\DAO\obj\Release\DAO.pdb
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\DAO\bin\Release\DAO.dll
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\DAO\bin\Release\DAO.pdb
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\DAO\bin\Release\DTO.dll
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\DAO\bin\Release\DTO.pdb
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\DAO\obj\Release\ResolveAssemblyReference.cache
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\DAO\obj\Release\DAO.dll
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\DAO\obj\Release\DAO.pdb
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\DAO\bin\Release\DAO.dll
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\DAO\bin\Release\DAO.pdb
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\DAO\bin\Release\DTO.dll
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\DAO\bin\Release\DTO.pdb
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\DAO\obj\Release\DAO.csprojResolveAssemblyReference.cache
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\DAO\obj\Release\DAO.dll
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\DAO\obj\Release\DAO.pdb
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\DAO\bin\Release\DAO.dll
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\DAO\bin\Release\DAO.pdb
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\DAO\bin\Release\DTO.dll
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\DAO\bin\Release\DTO.pdb
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\DAO\obj\Release\DAO.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\DAO\obj\Release\DAO.dll
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\DAO\obj\Release\DAO.pdb

@@ -1,0 +1,84 @@
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\DAO\bin\Debug\DAO.dll
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\DAO\bin\Debug\DAO.pdb
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\DAO\bin\Debug\DTO.dll
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\DAO\bin\Debug\DTO.pdb
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\DAO\obj\Debug\DAO.dll
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\DAO\obj\Debug\DAO.pdb
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\DAO\bin\Debug\DAO.dll
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\DAO\bin\Debug\DAO.pdb
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\DAO\bin\Debug\DTO.dll
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\DAO\bin\Debug\DTO.pdb
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\DAO\obj\Debug\ResolveAssemblyReference.cache
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\DAO\obj\Debug\DAO.dll
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\DAO\obj\Debug\DAO.pdb
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\DAO\bin\Debug\DAO.dll
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\DAO\bin\Debug\DAO.pdb
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\DAO\bin\Debug\DTO.dll
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\DAO\bin\Debug\DTO.pdb
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\DAO\obj\Debug\ResolveAssemblyReference.cache
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\DAO\obj\Debug\DAO.dll
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\DAO\obj\Debug\DAO.pdb
+C:\Users\WIN7\Desktop\Dev so tiet kiem\DAO\bin\Debug\DAO.dll
+C:\Users\WIN7\Desktop\Dev so tiet kiem\DAO\bin\Debug\DAO.pdb
+C:\Users\WIN7\Desktop\Dev so tiet kiem\DAO\bin\Debug\DTO.dll
+C:\Users\WIN7\Desktop\Dev so tiet kiem\DAO\bin\Debug\DTO.pdb
+C:\Users\WIN7\Desktop\Dev so tiet kiem\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\Dev so tiet kiem\DAO\obj\Debug\DAO.dll
+C:\Users\WIN7\Desktop\Dev so tiet kiem\DAO\obj\Debug\DAO.pdb
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\DAO\bin\Debug\DAO.dll
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\DAO\bin\Debug\DAO.pdb
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\DAO\bin\Debug\DTO.dll
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\DAO\bin\Debug\DTO.pdb
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\DAO\obj\Debug\DAO.dll
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\DAO\obj\Debug\DAO.pdb
+D:\nmpm\DoAn\1142018\DAO\bin\Debug\DAO.dll
+D:\nmpm\DoAn\1142018\DAO\bin\Debug\DAO.pdb
+D:\nmpm\DoAn\1142018\DAO\bin\Debug\DTO.dll
+D:\nmpm\DoAn\1142018\DAO\bin\Debug\DTO.pdb
+D:\nmpm\DoAn\1142018\DAO\obj\Debug\ResolveAssemblyReference.cache
+D:\nmpm\DoAn\1142018\DAO\obj\Debug\DAO.dll
+D:\nmpm\DoAn\1142018\DAO\obj\Debug\DAO.pdb
+C:\Users\WIN7\Desktop\1142018\DAO\bin\Debug\DAO.dll
+C:\Users\WIN7\Desktop\1142018\DAO\bin\Debug\DAO.pdb
+C:\Users\WIN7\Desktop\1142018\DAO\bin\Debug\DTO.dll
+C:\Users\WIN7\Desktop\1142018\DAO\bin\Debug\DTO.pdb
+C:\Users\WIN7\Desktop\1142018\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\1142018\DAO\obj\Debug\DAO.dll
+C:\Users\WIN7\Desktop\1142018\DAO\obj\Debug\DAO.pdb
+C:\Users\WIN7\Desktop\1142018_dy\DAO\bin\Debug\DAO.dll
+C:\Users\WIN7\Desktop\1142018_dy\DAO\bin\Debug\DAO.pdb
+C:\Users\WIN7\Desktop\1142018_dy\DAO\bin\Debug\DTO.dll
+C:\Users\WIN7\Desktop\1142018_dy\DAO\bin\Debug\DTO.pdb
+C:\Users\WIN7\Desktop\1142018_dy\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\1142018_dy\DAO\obj\Debug\DAO.dll
+C:\Users\WIN7\Desktop\1142018_dy\DAO\obj\Debug\DAO.pdb
+D:\nmpm\DoAn\moi\1142018_dy\DAO\bin\Debug\DAO.dll
+D:\nmpm\DoAn\moi\1142018_dy\DAO\bin\Debug\DAO.pdb
+D:\nmpm\DoAn\moi\1142018_dy\DAO\bin\Debug\DTO.dll
+D:\nmpm\DoAn\moi\1142018_dy\DAO\bin\Debug\DTO.pdb
+D:\nmpm\DoAn\moi\1142018_dy\DAO\obj\Debug\ResolveAssemblyReference.cache
+D:\nmpm\DoAn\moi\1142018_dy\DAO\obj\Debug\DAO.dll
+D:\nmpm\DoAn\moi\1142018_dy\DAO\obj\Debug\DAO.pdb
+D:\BaiTap\new\DoAn_PhanMem\DAO\bin\Debug\DAO.dll
+D:\BaiTap\new\DoAn_PhanMem\DAO\bin\Debug\DAO.pdb
+D:\BaiTap\new\DoAn_PhanMem\DAO\bin\Debug\DTO.dll
+D:\BaiTap\new\DoAn_PhanMem\DAO\bin\Debug\DTO.pdb
+D:\BaiTap\new\DoAn_PhanMem\DAO\obj\Debug\ResolveAssemblyReference.cache
+D:\BaiTap\new\DoAn_PhanMem\DAO\obj\Debug\DAO.dll
+D:\BaiTap\new\DoAn_PhanMem\DAO\obj\Debug\DAO.pdb
+D:\BaiTap\PM_2\DoAn_PhanMem\DAO\bin\Debug\DAO.dll
+D:\BaiTap\PM_2\DoAn_PhanMem\DAO\bin\Debug\DAO.pdb
+D:\BaiTap\PM_2\DoAn_PhanMem\DAO\bin\Debug\DTO.dll
+D:\BaiTap\PM_2\DoAn_PhanMem\DAO\bin\Debug\DTO.pdb
+D:\BaiTap\PM_2\DoAn_PhanMem\DAO\obj\Debug\ResolveAssemblyReference.cache
+D:\BaiTap\PM_2\DoAn_PhanMem\DAO\obj\Debug\DAO.dll
+D:\BaiTap\PM_2\DoAn_PhanMem\DAO\obj\Debug\DAO.pdb
+D:\BaiTap\PM_3\DoAn_PhanMem\DAO\bin\Debug\DAO.dll
+D:\BaiTap\PM_3\DoAn_PhanMem\DAO\bin\Debug\DAO.pdb
+D:\BaiTap\PM_3\DoAn_PhanMem\DAO\bin\Debug\DTO.dll
+D:\BaiTap\PM_3\DoAn_PhanMem\DAO\bin\Debug\DTO.pdb
+D:\BaiTap\PM_3\DoAn_PhanMem\DAO\obj\Debug\ResolveAssemblyReference.cache
+D:\BaiTap\PM_3\DoAn_PhanMem\DAO\obj\Debug\DAO.dll
+D:\BaiTap\PM_3\DoAn_PhanMem\DAO\obj\Debug\DAO.pdb
