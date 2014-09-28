@@ -59,9 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaoCaoNgay_DTO.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="DangNhap_DTO.cs" />
-    <Compile Include="nam.cs" />
     <Compile Include="PhieuGoiTien_DTO.cs" />
     <Compile Include="PhieuRutTien_DTO.cs" />
     <Compile Include="SoTietKiem_DTO.cs" />

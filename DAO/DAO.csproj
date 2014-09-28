@@ -67,7 +67,6 @@
     <Compile Include="PhieuRutTien_DAO.cs" />
     <Compile Include="SoTietKiem_DAO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="aaaa.cs" />
     <Compile Include="ThamSo_DAO.cs" />
     <Compile Include="TraCuuSo_DAO.cs" />
   </ItemGroup>
